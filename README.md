@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
