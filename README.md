@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0040-combination-sum-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangGarg2006/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangGarg2006/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 ## Shortest Path
 |  |
