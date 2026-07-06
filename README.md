@@ -87,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
