@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangGarg2006/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/DevangGarg2006/DSA-practice/tree/master/1288-remove-covered-intervals) |
 ## Matrix
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -97,9 +101,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
