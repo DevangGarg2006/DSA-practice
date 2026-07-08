@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangGarg2006/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 ## Shortest Path
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
