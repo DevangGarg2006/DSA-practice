@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevangGarg2006/DSA-practice/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/DevangGarg2006/DSA-practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
