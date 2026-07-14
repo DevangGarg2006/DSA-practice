@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Shortest Path
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/DevangGarg2006/DSA-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DevangGarg2006/DSA-practice/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
