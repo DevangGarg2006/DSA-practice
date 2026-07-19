@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevangGarg2006/DSA-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
