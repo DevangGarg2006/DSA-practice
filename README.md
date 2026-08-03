@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevangGarg2006/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Shortest Path
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
