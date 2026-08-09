@@ -299,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevangGarg2006/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
