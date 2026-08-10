@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevangGarg2006/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/DevangGarg2006/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/DevangGarg2006/DSA-practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/DevangGarg2006/DSA-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DevangGarg2006/DSA-practice/tree/master/0115-distinct-subsequences) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevangGarg2006/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -330,17 +332,21 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
