@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/DevangGarg2006/DSA-practice/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevangGarg2006/DSA-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1092-shortest-common-supersequence) |
@@ -326,4 +327,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DevangGarg2006/DSA-practice/tree/master/1510-stone-game-iv) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
