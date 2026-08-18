@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevangGarg2006/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevangGarg2006/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -364,4 +367,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
