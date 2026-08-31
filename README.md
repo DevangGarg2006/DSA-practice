@@ -415,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
