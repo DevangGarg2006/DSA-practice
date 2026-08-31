@@ -18,25 +18,30 @@ public:
         if (!head || !head->next || !head->next->next)
             return {-1, -1};
 
-        vector<int> critical;
+        int first=-1;
+        int previ=-1;
+        int minGap=INT_MAX;
 
         while (next != NULL) {
             if ((curr->val > prev->val && curr->val > next->val) ||
                 (curr->val < prev->val && curr->val < next->val)) {
-                critical.push_back(i);
+                if(first==-1){
+                    first=i;
+                }
+                else{
+                    minGap=min(minGap,i-previ);
+                }
+                previ=i;
             }
             prev = curr;
             curr = next;
             next = next->next;
             i++;
         }
-         if (critical.size() < 2) return {-1, -1};
-        int minGap = INT_MAX;
-        for (int j = 1; j < critical.size(); j++) {
-            minGap = min(minGap, critical[j] - critical[j-1]);
-        }
-        int maxGap = critical.back() - critical.front();
+         
+        if (first == -1 || previ == first) return {-1, -1};
 
+        int maxGap = previ - first;
         return {minGap, maxGap};
     }
 };
