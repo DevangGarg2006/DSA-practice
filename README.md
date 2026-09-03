@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/DevangGarg2006/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
