@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
@@ -433,5 +435,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
