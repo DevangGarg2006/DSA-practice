@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/DevangGarg2006/DSA-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangGarg2006/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -442,9 +443,19 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
