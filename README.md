@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/DevangGarg2006/DSA-practice/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DevangGarg2006/DSA-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevangGarg2006/DSA-practice/tree/master/1510-stone-game-iv) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DevangGarg2006/DSA-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
@@ -466,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
