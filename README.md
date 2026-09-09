@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/DevangGarg2006/DSA-practice/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevangGarg2006/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3903-smallest-stable-index-i) |
 ## Manacher
