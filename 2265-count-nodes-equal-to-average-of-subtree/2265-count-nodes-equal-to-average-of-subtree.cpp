@@ -15,8 +15,8 @@ public:
         if(root==NULL){
             return {0,0};
         }
-        pair<int,int>lft=helper(root->left,cnt);
-        pair<int,int>rght=helper(root->right,cnt);
+        auto lft=helper(root->left,cnt);
+        auto rght=helper(root->right,cnt);
         
         int sum=lft.first+rght.first+root->val;
         int element=lft.second+rght.second+1;
