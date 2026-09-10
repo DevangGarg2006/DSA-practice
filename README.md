@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevangGarg2006/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -460,11 +461,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
