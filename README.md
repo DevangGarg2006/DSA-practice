@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DevangGarg2006/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/DevangGarg2006/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DevangGarg2006/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
