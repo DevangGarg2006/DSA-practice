@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DevangGarg2006/DSA-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DevangGarg2006/DSA-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0239-sliding-window-maximum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/DevangGarg2006/DSA-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/DevangGarg2006/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangGarg2006/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
