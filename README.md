@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevangGarg2006/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangGarg2006/DSA-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevangGarg2006/DSA-practice/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangGarg2006/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangGarg2006/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangGarg2006/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -507,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
