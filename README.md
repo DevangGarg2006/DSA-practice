@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
+| [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
+| [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1288-remove-covered-intervals](https://github.com/DevangGarg2006/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/DevangGarg2006/DSA-practice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -357,11 +360,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
