@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevangGarg2006/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DevangGarg2006/DSA-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevangGarg2006/DSA-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DevangGarg2006/DSA-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevangGarg2006/DSA-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevangGarg2006/DSA-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/DevangGarg2006/DSA-practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DevangGarg2006/DSA-practice/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevangGarg2006/DSA-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
