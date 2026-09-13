@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/DevangGarg2006/DSA-practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DevangGarg2006/DSA-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0064-minimum-path-sum) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/DevangGarg2006/DSA-practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
