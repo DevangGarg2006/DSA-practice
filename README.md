@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DevangGarg2006/DSA-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevangGarg2006/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DevangGarg2006/DSA-practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangGarg2006/DSA-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/DevangGarg2006/DSA-practice/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevangGarg2006/DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevangGarg2006/DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevangGarg2006/DSA-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevangGarg2006/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
