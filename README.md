@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DevangGarg2006/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DevangGarg2006/DSA-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0301-remove-invalid-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangGarg2006/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/DevangGarg2006/DSA-practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/DevangGarg2006/DSA-practice/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/DevangGarg2006/DSA-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DevangGarg2006/DSA-practice/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0301-remove-invalid-parentheses) |
 ## Math
 |  |
 | ------- |
