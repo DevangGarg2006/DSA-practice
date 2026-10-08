@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0686-repeated-string-match](https://github.com/DevangGarg2006/DSA-practice/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DevangGarg2006/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DevangGarg2006/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/DevangGarg2006/DSA-practice/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevangGarg2006/DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DevangGarg2006/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DevangGarg2006/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
