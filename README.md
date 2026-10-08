@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/1143-longest-common-subsequence) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangGarg2006/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevangGarg2006/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -572,5 +574,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevangGarg2006/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
