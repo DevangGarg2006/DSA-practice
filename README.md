@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevangGarg2006/DSA-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/DevangGarg2006/DSA-practice/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/DevangGarg2006/DSA-practice/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/DevangGarg2006/DSA-practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangGarg2006/DSA-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0769-max-chunks-to-make-sorted](https://github.com/DevangGarg2006/DSA-practice/tree/master/0769-max-chunks-to-make-sorted) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/DevangGarg2006/DSA-practice/tree/master/0334-increasing-triplet-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
