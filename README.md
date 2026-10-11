@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevangGarg2006/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DevangGarg2006/DSA-practice/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevangGarg2006/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevangGarg2006/DSA-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
