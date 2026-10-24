@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevangGarg2006/DSA-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DevangGarg2006/DSA-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevangGarg2006/DSA-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevangGarg2006/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevangGarg2006/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevangGarg2006/DSA-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DevangGarg2006/DSA-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevangGarg2006/DSA-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
