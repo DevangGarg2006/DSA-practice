@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/DevangGarg2006/DSA-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevangGarg2006/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevangGarg2006/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/DevangGarg2006/DSA-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/DevangGarg2006/DSA-practice/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/DevangGarg2006/DSA-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/DevangGarg2006/DSA-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DevangGarg2006/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DevangGarg2006/DSA-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevangGarg2006/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DevangGarg2006/DSA-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/DevangGarg2006/DSA-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevangGarg2006/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/DevangGarg2006/DSA-practice/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/DevangGarg2006/DSA-practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/DevangGarg2006/DSA-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DevangGarg2006/DSA-practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1901-find-a-peak-element-ii) |
