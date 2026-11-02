@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/DevangGarg2006/DSA-practice/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/DevangGarg2006/DSA-practice/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/DevangGarg2006/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DevangGarg2006/DSA-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DevangGarg2006/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DevangGarg2006/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/DevangGarg2006/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DevangGarg2006/DSA-practice/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/DevangGarg2006/DSA-practice/tree/master/1140-stone-game-ii) |
